@@ -7,7 +7,10 @@
     or
 
         npm install
-2. Run webpack
+2. Run webpack:
+
         npm start
+        
     or
+    
         webpack
