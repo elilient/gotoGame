@@ -1,13 +1,14 @@
 # gotoGame
+1. Navigate to the /game folder
 
-1. Install dependencies:
+2. Install dependencies:
 
         yarn
 
     or
 
         npm install
-2. Run webpack:
+3. Run webpack:
 
         npm start
         
